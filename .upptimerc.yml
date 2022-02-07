@@ -5,6 +5,9 @@ repo: monitoring # The name of this repository
 sites:
   - name: Demium
     url: https://www.demium.com
+    
+  - name: Careers
+    url: https://careers.demium.com/
 
 assignees: # Users to assign downtime issues (optional)
   - sistemas-demium
